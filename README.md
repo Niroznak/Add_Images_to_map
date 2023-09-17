@@ -1,6 +1,8 @@
 This project creates an interactive html map and add markers in specific coordinates using folium.
 
-pressing each marker opens a pop up with the image related to this coordinates
+pressing each marker opens a pop up with the image related to this coordinates.
+
+for simplification i used the coordinates as the image name (tuple of floats, 6 digits accuracy)
 
 
 Examples:
