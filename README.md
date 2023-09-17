@@ -1,4 +1,5 @@
-This project creates an interactive html map and add markers in specific coordinates using folium
+This project creates an interactive html map and add markers in specific coordinates using folium.
+
 pressing each marker opens a pop up with the image related to this coordinates
 
 
